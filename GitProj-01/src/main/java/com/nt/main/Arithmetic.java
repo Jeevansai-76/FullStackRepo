@@ -2,11 +2,11 @@ package com.nt.main;
 
 public class Arithmetic {
 
-	public void sum(int a,int b) {
+	public void sum(double a,double b) {
 		System.out.println(a+b);
 	}
 	
-	public void sub(int a,int b) {
+	public void sub(double a,double b) {
 		System.out.println(a-b);
 	}
 	
