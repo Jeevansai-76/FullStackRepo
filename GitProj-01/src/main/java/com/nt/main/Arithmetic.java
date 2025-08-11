@@ -17,7 +17,7 @@ public class Arithmetic {
 		System.out.println("Arithmetic.main()");
 		Arithmetic ath = new Arithmetic();
 		ath.sum(10, 20);
-		ath.sub(20, 10);
+		ath.sub(20, 10);//calling method
 	}
 
 }
