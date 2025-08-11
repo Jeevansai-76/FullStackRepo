@@ -1,0 +1,86 @@
+# ------------------------
+# Eclipse-specific files
+# ------------------------
+*.launch
+*.log
+.settings/
+.project
+.classpath
+
+# ------------------------
+# IntelliJ IDEA (optional, if used)
+# ------------------------
+.idea/
+*.iml
+*.iws
+out/
+
+# ------------------------
+# Maven / Gradle
+# ------------------------
+target/
+bin/
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+**/logs/
+**/tmp/
+
+# ------------------------
+# OS Files
+# ------------------------
+.DS_Store
+Thumbs.db
+
+# ------------------------
+# Environment / Secrets
+# ------------------------
+*.env
+*.env.*
+*.local
+.env
+*.key
+*.pem
+*.jks
+
+# ------------------------
+# Logs
+# ------------------------
+*.log
+
+# ------------------------
+# Java
+# ------------------------
+*.class
+*.jar
+*.war
+*.ear
+
+# ------------------------
+# VS Code (optional)
+# ------------------------
+.vscode/
+
+# ------------------------
+# Spring Boot dev tools (hot reload cache)
+# ------------------------
+.spring-boot-devtools.properties
+.spring-boot-devtools/
+
+# ------------------------
+# Test / coverage reports
+# ------------------------
+test-output/
+jacoco.exec
+coverage/
+coverage-report/
+*.ec
+*.exec
+
+# ------------------------
+# Backup files
+# ------------------------
+*.bak
+*.swp
+*~
+
