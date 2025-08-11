@@ -3,6 +3,9 @@ package com.nt.main;
 public class Arithmetic {
 
 	public void sum(double a,double b) {
+		//Addition of a and b
+		//Performing Addition
+
 		System.out.println(a+b);
 	}
 	
