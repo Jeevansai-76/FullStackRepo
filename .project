@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>FullStackRepo1</name>
+=======
+<<<<<<< HEAD
+	<name>FullStackRepo2</name>
+=======
+	<name>FullStackRepo1</name>
+>>>>>>> branch 'master' of https://github.com/Jeevansai-76/FullStackRepo.git
+>>>>>>> branch 'master' of https://github.com/Jeevansai-76/FullStackRepo.git
 	<comment></comment>
 	<projects>
 	</projects>
